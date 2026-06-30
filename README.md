@@ -1,6 +1,6 @@
 # CS50 Project: Character Skill Word Counter
 
-## About the Project:
+## About:
 This program efficiently counts the no. of words based on each character's skill, before ranking them in descending order.
 
 Data for the above is stored in a .csv to effectively store large amounts of info.
