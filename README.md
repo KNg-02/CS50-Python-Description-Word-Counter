@@ -1,7 +1,4 @@
-# Project: Character Skill Word Counter
-
-## Video Demo:
-https://www.youtube.com/watch?v=-sEecO5DPsw&feature=youtu.be
+# CS50 Project: Character Skill Word Counter
 
 ## About the Project:
 This program efficiently counts the no. of words based on each character's skill, before ranking them in descending order.
